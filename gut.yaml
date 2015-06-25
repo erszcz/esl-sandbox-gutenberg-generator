@@ -1,0 +1,5 @@
+postinstall:
+  commands:
+    - make
+  message:
+    Have fun with our custom selection of apps!
